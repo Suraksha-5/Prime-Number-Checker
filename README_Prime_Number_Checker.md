@@ -49,6 +49,6 @@ Operators - Modulo Operator (`%`) - `for` Loop - `if` Statement
 
 ## Author
 
-**Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Name:** Suraksha
 
-**GitHub:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**GitHub:** https://github.com/Suraksha-5
